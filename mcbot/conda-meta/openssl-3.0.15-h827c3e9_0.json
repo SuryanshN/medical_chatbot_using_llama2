@@ -193,7 +193,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:\\\\b\\\\abs_25mqphatbo\\\\croot\\\\openssl_1725545335595\\\\_h_env",
         "sha256": "11ae56eed2ddd9a20ebd8552709e70b647f9138fa028a86173446a3065b85d54",
-        "sha256_in_prefix": "133960fedae1728064f557ba2b1d003103abef6860b2b8657f77d8f3e14a97e8",
+        "sha256_in_prefix": "bcb2b350cdd8d8089b87679863966023b2526e5ec3e50c67776df49bc8515a71",
         "size_in_bytes": 7268
       },
       {
@@ -1232,7 +1232,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/b/abs_25mqphatbo/croot/openssl_1725545335595/_h_env",
         "sha256": "ebee686ed449861ded223dcfcd8e383006bfe416dc94d7421b7d37abcac63b1c",
-        "sha256_in_prefix": "d765886484ba01fe1b94e4458f64e260c4b040f527a584ac0ffb9297b5c9b70a",
+        "sha256_in_prefix": "1f31ef5dd7a95f718bef7d5ecd759971eb59f158081b59b9949c7eae297c70ac",
         "size_in_bytes": 325
       },
       {
@@ -1241,7 +1241,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/b/abs_25mqphatbo/croot/openssl_1725545335595/_h_env",
         "sha256": "2fb35188eca6da38e89d8d26198df71345d8e2fdf7f8a6fabe5d3ccb155deb40",
-        "sha256_in_prefix": "a47bec39ae2b2137d50781674aee9a5f2e93241a33c229d38b4fce636a03812b",
+        "sha256_in_prefix": "26f1c1c6d790cb86283efee1fbcf2fe8770182adb72244c606e9f661339525a3",
         "size_in_bytes": 325
       },
       {
@@ -1250,7 +1250,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/b/abs_25mqphatbo/croot/openssl_1725545335595/_h_env",
         "sha256": "6a85424f9f7d43617a5b65d9438775dabc703bbf8cc8544e218b7cd5171fb5fe",
-        "sha256_in_prefix": "a9d46434f49cd9f7ceacad591d11397ab72596bec5858fd72410ee9a4d24fd92",
+        "sha256_in_prefix": "fc579bfa50488b2a1a9f83935607c89fbda710cde0d4fcb4b8f4bfdaa7fb701f",
         "size_in_bytes": 280
       },
       {
@@ -1340,7 +1340,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "openssl",
   "sha256": "f66ac4602ff5f9e46d7949cdde2bfd0db88702cd0b885c70a70891c348c0c1df",
   "size": 8139465,
   "subdir": "win-64",

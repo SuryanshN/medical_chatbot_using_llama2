@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:/Users/Asus/chatbot_medical_lama/medical_chatbot_using_lama2/medical_chatbot_using_llama2/mcbot\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
